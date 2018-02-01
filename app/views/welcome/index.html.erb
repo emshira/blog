@@ -1,5 +1,21 @@
-<h1>Welcome to my blog. </h1>
-<h2>This is a space to help empower parents through providing informtion on common infant and toddler medical conditions.</h2>
-<br>
-<h2>Consult your you health care provider if you have any concerns or questions.</h2>
-<%= link_to 'My Blog', controller: 'articles' %>
+<div class="page_wrapper">
+  <div class="welcome">
+    <h1>Welcome To My Blog </h1>
+    <br>
+
+    <div class="card">
+      <div class="card-block">
+        Hi, I'm Em. As a parent I aim to keep my little one as happy and healthy as possible. Through educating my self on common pediatric illnesses, I am better aware of signs to look for when my little one is not feeling well. This is a space to help empower parents through providing informtion on common infant and toddler medical conditions.
+        I look forward to reading your comments.
+      </div>
+   </div><br>
+
+    <div class="buttons">
+        <button class="button"><%= link_to 'My Blog', controller: 'articles' %></button>
+    </div><br><br>
+
+    <div class="blogger">
+      <%= image_tag("blogger.png") %>
+    </div>
+  </div>
+</div>

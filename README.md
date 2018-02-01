@@ -1,24 +1,20 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Blog App allow user to create and post new blogs. Complete CRUD. Creating a new blog, Editing and Destroying require authentication. Visitors are able to post comments.
 
-Things you may want to cover:
+ ====================
 
-* Ruby version
 
-* System dependencies
+* Ruby version: 2.4.2
 
-* Configuration
+====================
 
-* Database creation
+Technology used:
 
-* Database initialization
+* Ruby, Rails, html, css, bootstrap, git
 
-* How to run the test suite
+===================
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+* Deployment/website:
