@@ -17,4 +17,4 @@ Technology used:
 
 
 
-* Deployment/website:
+* Deployment/website: https://blog0101.herokuapp.com
