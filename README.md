@@ -6,15 +6,15 @@ Blog App allow user to create and post new blogs. Complete CRUD. Creating a new 
 
 
 * Ruby version: 2.4.2
+* Rails 5.1.5
 
 ====================
 
 Technology used:
 
-* Ruby, Rails, html, css, bootstrap, git
+* Ruby, Ruby on Rails, html, css, bootstrap, Git
 
 ===================
 
 
-
-* Deployment/website: 
+* Deployment/website: Deployed with Heroku, visit: https://blog0101.herokuapp.com/
